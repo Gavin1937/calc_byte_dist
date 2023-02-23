@@ -1,5 +1,5 @@
 
-# Calculate byte distribution of input folder
+# Calculate byte distribution of an input folder
 
 loop through all files under input foler recursively and then count how many times each bytes (0x00 ~ 0xff) appears
 
