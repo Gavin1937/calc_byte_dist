@@ -7,6 +7,7 @@
 # python3 calc_byte_dist.py /path/to/folder/
 # 
 # dependencies:
+# Python version >= 3.8
 # numpy, pandas
 
 
